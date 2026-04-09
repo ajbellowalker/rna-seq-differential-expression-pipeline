@@ -82,10 +82,10 @@ All outputs are stored in the `results/` directory:
 
 ## 📁 Repository Structure
 
-├── data/ # Input data and sample metadata 
-├── scripts/ # Pipeline scripts (Bash + R)
-├── results/ # Output files (tables and plots)
-├── docs/ # Workflow documentation
+├── data/ # Input data and sample metadata    
+├── scripts/ # Pipeline scripts (Bash + R)   
+├── results/ # Output files (tables and plots)   
+├── docs/ # Workflow documentation   
 └── assets/  
 
 ## ▶️ Pipeline Workflow
